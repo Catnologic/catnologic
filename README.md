@@ -8,8 +8,7 @@
 - 💬 Ask me about pizza and sushi
 - 📫 How to reach me: I'm on <a href="https://twitter.com/SallyLeh2o" target="_blank">twitter</a>
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I like dancing and
--  drawing (=^-^=)
+- ⚡ Fun fact: I like dancing and drawing (=^-^=)
 
 
 
