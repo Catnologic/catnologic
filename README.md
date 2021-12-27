@@ -3,12 +3,12 @@
 
 - 🔭 I’m currently working on several web apps
 - 🌱 I’m currently learning react
-- 👯 I’m looking to collaborate on projects involving machine learning and AI
+- 👯 I’m looking to collaborate on projects involving web development, both front and back end.
 - 🤔 I’m looking for help with CSS PLIZ HELP
-- 💬 Ask me about pizza and sushi
-- 📫 How to reach me: I'm on <a href="https://twitter.com/SallyLeh2o" target="_blank">twitter</a>
+- 💬 Ask me about pizza
+- 📫 How to reach me: you can dm me on <a href="https://twitter.com/SallyLeh2o" target="_blank">twitter</a>
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I like dancing and drawing (=^-^=)
+- ⚡ Fun fact: I like cats (=^-^=)
 
 
 
